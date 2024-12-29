@@ -1,6 +1,6 @@
 /*
-    The following is an original solution to the problem: Gym 553339-F "CAPDK 2024" of Codeforces.
-    Rated difficulty: 800. Language: C++20 (GCC 13-64).
+    The following is an original solution to the problem: GYM 553339-F "CAPDK 2024" of Codeforces.
+    Language: C++20 (GCC 13-64).
     This solution isn't secured as "the most efficient one", but it is secured as an Accepted one under the given constraints.
     Techniques / Topics involved: Adhoc, Implementation, Strings.
 
