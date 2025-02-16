@@ -1,5 +1,5 @@
 /*
-    The following is an original solution to the problem: ABC389-C "Snake Queue" of Codeforces.
+    The following is an original solution to the problem: ABC389-C "Snake Queue" of AtCoder.
     Score: 300 points. Language: C++20 (gcc 12.2).
     This solution isn't secured as "the most efficient one", but it is secured as an Accepted one under the given constraints.
     Techniques / Topics involved: Data Structures, Deque, Queue.
