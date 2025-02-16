@@ -1,10 +1,10 @@
 /*
-    The following is an original solution to the problem: 1584 - "Min Cost to Connect All" of LeetCode.
+    The following is an original solution to the problem: 1584 - "Min Cost to Connect All Points" of LeetCode.
     Rated difficulty: Medium. Language: C++.
     This solution isn't secured as "the most efficient one", but it is secured as an Accepted one under the given constraints.
     Techniques / Topics involved: Graphs, Primm's Algorithm.
 
-    Check out the problem at: https://leetcode.com/problems/min-cost-to-connect-all-points/
+    Check out the problem at: https://leetcode.com/problems/min-cost-to-connect-all-points/description/
 
     The only purpose of doing this is to learn and improve my skills in competitive programming.
 */
